@@ -1,0 +1,22 @@
+* {
+font-style: "normal,italic";
+
+}
+
+a{
+    font-style: normal;
+}
+
+li{
+    display: inline; 
+}
+
+#header{
+    background-color: rgb(7, 31, 253);
+    text-align: right;
+    padding: 10px;
+    
+    
+}
+/*
+display: inline;background-color: rgb(26, 30, 240);*/
