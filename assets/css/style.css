@@ -4,7 +4,10 @@ font-style: "normal,italic";
 }
 
 a{
-    font-style: normal;
+    text-decoration: underline;
+    font-weight: bold;
+    color: white;
+
 }
 
 li{
@@ -15,8 +18,13 @@ li{
     background-color: rgb(7, 31, 253);
     text-align: right;
     padding: 10px;
-    
-    
+}
+
+#footer{
+    background-color: rgb(7,31,253)/*rgb(187, 152, 72)*/;
+    text-align: center;
+    padding: 10px;
+      
 }
 /*
 display: inline;background-color: rgb(26, 30, 240);*/
